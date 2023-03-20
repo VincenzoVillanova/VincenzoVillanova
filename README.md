@@ -9,8 +9,8 @@
 <p align="left">
 <a href="https://instagram.com/vincenzo__villanova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vincenzo__villanova" height="50" width="50" /></a>
 </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincenzoVillanova"/></p>
 <h3 align="left">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,mysql,php,bootstrap,wordpress,git,github,latex,processing)](https://skillicons.dev)
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VincenzoVillanova&show_icons=true&locale=en&layout=compact" alt="VincenzoVillanova" /></p>
