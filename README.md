@@ -12,3 +12,5 @@
 <h3 align="left">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,mysql,php,bootstrap,wordpress,git,github,latex,processing)](https://skillicons.dev)
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VincenzoVillanova&show_icons=true&locale=en&layout=compact" alt="VincenzoVillanova" /></p>
