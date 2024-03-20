@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vincenzo Villanova</h1>
 <!-- ![alt text](header-animation-short-loop.gif) -->
+<h3 align="center">A passionate developer from Italy(🇮🇹)</h3>
+
 <p align="center">
 <image src="/giphy.gif">
 </p>
-<h3 align="center">A passionate developer from Italy(🇮🇹)</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
