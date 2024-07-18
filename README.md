@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a third-year Computer Science student at the University of Catania. <br>Passionate about technology, programming, and innovation, <br>I am always looking for new challenges and opportunities to grow and<br>improve my skills.
+I am a third-year Computer Science student at the University of Catania. Passionate about technology, programming, and innovation, I am always looking for new challenges and opportunities to grow and<br>improve my skills.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/vincenzo.villanova.9/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vincenzo__villanova) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincenzo-villanova-530662273/)
