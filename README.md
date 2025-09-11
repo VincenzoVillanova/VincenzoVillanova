@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a first year master's student in Computer Science at the University of Catania. Passionate about technology, programming and innovation, I am always looking for new challenges and opportunities to grow and improve my skills.<br>
+I am a second year master's student in Computer Science at the University of Catania. Passionate about technology, programming and innovation, I am always looking for new challenges and opportunities to grow and improve my skills.<br>
 
 
 ## 🌐 Socials:
